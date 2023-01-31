@@ -1,0 +1,3 @@
+Settup Môi Trường
+    -> npm init
+    
